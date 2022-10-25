@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("�п�J�Ʀrn: ");
+    printf("½Ð¿é¤J¼Æ¦rn: ");
 
     int n;
     scanf("%d", &n);
