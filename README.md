@@ -19,3 +19,5 @@
   #week14 函式(宣告/定義、使用呼叫、回傳/參數、變數範圍)/函式呼叫函式/最大公因數的函式解法
 
   #week15 認識字串和陣列/了解%d(Decimal數值10進位)與%c(Char字母/字元)的差別/ASCII美國國家資訊標準交換碼/了解char字母是1byte (8位元), int整數是4byte(32位元)/了解字串,解釋字串
+
+  #week16 複習#include,int,scanf(),%d及%c的差別/了解字串的函式,strlen()/strcpy()/strcat()/strcmp(),使用scanf()配合%s可讀入字串,使用strlen()得到長度,strcpy()可以複製/了解address位址&,利用 C Tutor Python實作
